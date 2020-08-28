@@ -1,0 +1,68 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "first_name": "Shanna",
+      "last_name": "Howell",
+      "email": "shanna@earncheese.com",
+      "address": {
+        "address1": "130 W Union St",
+        "address2": "",
+        "city": "Pasadena",
+        "state": "CA",
+        "zipcode": "91103"
+      },
+      "phone": "+10106926593",
+      "created_at": 1593475200,
+      "language": "en-US"
+    },
+    {
+      "id": 2,
+      "first_name": "Yifan",
+      "last_name": "Wu",
+      "email": "yifanwu@gmail.com",
+      "address": {
+        "address1": "901 Bagby St",
+        "address2": "",
+        "city": "Houston",
+        "state": "TX",
+        "zipcode": "77002"
+      },
+      "phone": "+16263927899",
+      "created_at": 1596283201,
+      "language": "zh-CN"
+    },
+    {
+      "id": 3,
+      "first_name": "Yifan",
+      "last_name": "Liu",
+      "email": "yifanwu@gmail.com",
+      "address": {
+        "address1": "901 Bagby St",
+        "address2": "",
+        "city": "Houston",
+        "state": "TX",
+        "zipcode": "77002"
+      },
+      "phone": "+16263927899",
+      "created_at": 1596283201,
+      "language": "zh-CN"
+    },
+    {
+      "id": 4,
+      "first_name": "Lei",
+      "last_name": "Wu",
+      "email": "yifanwu@gmail.com",
+      "address": {
+        "address1": "901 Bagby St",
+        "address2": "",
+        "city": "Houston",
+        "state": "TX",
+        "zipcode": "77002"
+      },
+      "phone": "+16263927899",
+      "created_at": 1596283201,
+      "language": "zh-CN"
+    }
+  ]
+}
